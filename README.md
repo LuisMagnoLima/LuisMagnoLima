@@ -84,16 +84,6 @@
 
 ---
 
-## 🐍 Snake Animation
-
-<div align="center">
-
-![Snake animation](https://github.com/LuisMagnoLima/LuisMagnoLima/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 👀 Visitantes
 
 <div align="center">
