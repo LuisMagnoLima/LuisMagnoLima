@@ -19,6 +19,3 @@ Meu nome é Luis Magno, tenho 21 anos, estou estudando tanto programação front
 ### :octocat: Git Stats 
 ![](https://komarev.com/ghpvc/?username=LuisMagnoLima)
 
-![LuisMagnoLima Github Stats](https://github-readme-stats.vercel.app/api?username=LuisMagnoLima&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMagnoLima&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
