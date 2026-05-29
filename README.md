@@ -1,21 +1,49 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World
+<h1 align="center">
+  Olá 👋 Eu sou Luis Magno
+</h1>
 
-<div> 
-  <a href="https://www.instagram.com/lmagno_lima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-5d52cb?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:magnolima223@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d00000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-magno-dos-santos-de-lima-143067220/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
-
-### 🐰 Sobre mim
-Meu nome é Luis Magno, tenho 21 anos, estou estudando tanto programação frontend e backend
-
-### Estudando estas tecnologias:
- <p>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" /><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" /><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" /><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" /><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" />
+<p align="center">
+  💻 Full Stack Developer em evolução <br>
+  🚀 Estudando Python, TypeScript, MongoDB e Backend
 </p>
 
-### :octocat: Git Stats 
-![](https://komarev.com/ghpvc/?username=LuisMagnoLima)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Estudando+TypeScript+e+MongoDB;Criando+o+Kairos+MA-thos;Sempre+aprendendo+algo+novo" />
+</p>
 
+---
+
+## 🌎 Redes Sociais
+
+<p align="center">
+  <a href="https://www.instagram.com/lmagno_lima/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="mailto:magnolima223@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/luis-magno-dos-santos-de-lima-143067220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🧠 Sobre mim
+
+```javascript
+const luis = {
+  idade: 21,
+  foco: "Full Stack",
+  estudando: [
+    "Python",
+    "FastAPI",
+    "MongoDB",
+    "TypeScript",
+    "JavaScript",
+    "React"
+  ],
+  projetoAtual: "Kairos MA-thos"
+}
