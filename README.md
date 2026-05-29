@@ -8,7 +8,7 @@
   </a> 
 </div>
 
-### 👨🏿‍💻 Sobre mim
+### 🐰 Sobre mim
 Meu nome é Luis Magno, tenho 21 anos, estou estudando tanto programação frontend e backend
 
 ### Estudando estas tecnologias:
