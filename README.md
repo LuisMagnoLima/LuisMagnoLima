@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Desenvolvendo+o+Kairos+MA-thos;Estudando+MongoDB+e+TypeScript;Python+%7C+FastAPI+%7C+React;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Desenvolvendo+o+Kairos+MA-thos;Sempre+aprendendo+algo+novo" />
 </p>
+
 ---
 
 ## 🌎 Redes Sociais
