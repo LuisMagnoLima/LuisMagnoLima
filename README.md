@@ -31,19 +31,21 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🐰 Sobre mim
 
-```javascript
-const luis = {
-  idade: 21,
-  foco: "Full Stack",
-  estudando: [
-    "Python",
-    "FastAPI",
-    "MongoDB",
-    "TypeScript",
-    "JavaScript",
-    "React"
-  ],
-  projetoAtual: "Kairos MA-thos"
-}
+💻 Desenvolvedor Full Stack em evolução  
+🎯 Focado em Backend, APIs e automações  
+📚 Atualmente estudando MongoDB e TypeScript  
+🚀 Criando o projeto Kairos MA-thos  
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  
+  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
