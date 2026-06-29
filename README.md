@@ -43,14 +43,9 @@
 ## 🚀 Estudando estas tecnologias
 
 <p align="center">
-
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" />
-
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" />
-
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" />
-
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" />
+  
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" />
 
