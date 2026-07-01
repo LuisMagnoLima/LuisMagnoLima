@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Olá Eu sou Luis Magno
+  👋 Olá eu sou o Luis Magno
 </h1>
 
 <p align="center">
